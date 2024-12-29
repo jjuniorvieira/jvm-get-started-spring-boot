@@ -1,2 +1,1 @@
-# to change language of repo
-*.js linguist-language=Kotlin
+*.kt linguist-language=Kotlin
